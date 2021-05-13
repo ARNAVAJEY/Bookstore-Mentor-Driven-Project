@@ -1,0 +1,30 @@
+This is Arnav Ajey(EmpId:904922). This is a file that explains the various features I have incorporated into my project. 
+
+This is a mentor driven project and here I have used the MERN stack to develop an e-commerce 'Book Store' platform. The features my project includes are as follows:
+	1)Admin user management
+	2)Admin product management
+	3)Admin order management system
+	4)Fully featured shopping cart with paypal chekout option
+	5)Top rated product carousel
+	6)Product Search feature
+	7)Product Pagination
+	8)Reviews and Ratings methods
+	9)Authorization and authentication techniques using libraries like 'Bcrypt' and 'JSON Web           tokens'
+	10)Protected routes and actions for admin users only 
+
+My frontend was developed using various React components
+For the backend, I have used MongoDB to store my database
+                 I have also used expressJS to help me create a server for my application to run, also                    NodeJS which is a back-end JavaScript runtime environment that runs on the V8 engine                  and executes my JavaScript code. 
+
+From the project I learned how to develop web applications and how these technologies function hand in hand to develop better and more efficient web applications. 
+
+I thank my Sr.Project Manager Mr.Chandan Lakkoju sir for giving me the opportunity to go through with the project. 
+I would also like to thank our mentor Mr.Rakshak Singh sir for guiding and helping us with the project. 
+Lastly, I would like to express my sincere gratitude to our trainer Mr. Gulamhind Abdullah for teachine us the methods necessary to develop such applications.    
+
+Thanking you!
+
+Yours Sincerely
+Arnav Ajey
+EmpId:904922
+(904922@cognizant.com)
